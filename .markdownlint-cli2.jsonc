@@ -1,0 +1,11 @@
+{
+  // Profile READMEs frequently embed raw HTML (badges, comments, alignment)
+  // and may not begin with a top-level heading, so relax those rules.
+  "config": {
+    "MD033": false,
+    "MD041": false,
+    "MD013": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}

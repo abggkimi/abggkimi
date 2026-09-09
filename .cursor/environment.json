@@ -1,0 +1,17 @@
+{
+  "name": "Profile README",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "preview",
+      "command": "npm run preview",
+      "description": "Live HTML preview of README.md at http://localhost:3000 (reloads on each request)."
+    }
+  ],
+  "ports": [
+    {
+      "name": "README preview",
+      "port": 3000
+    }
+  ]
+}
