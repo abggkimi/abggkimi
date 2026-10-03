@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Miki.  Welcome to my GitHub profile!
 　
-　
 ## About Me
 私は17歳の高校2年生です。現在専門的なスクールに通い、バックエンドを主に勉強しています。
+
+   　　
 
 ## My GitHub stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
