@@ -21,6 +21,21 @@ Here are some ideas to get you started:
 ## About Me
 私は17歳の高校2年生です。現在専門的なスクールに通い、バックエンドを主に勉強しています。
 
+## Skills
+### ある程度使えるもの
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,js,py,django,php" />
+  </a>
+</p>
+
+### 学習中
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,postgresql,swift,docker" />
+  </a>
+</p>
+
    　　
 
 ## My GitHub stats
