@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### 学習中
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,postgresql,swift,docker" />
+    <img src="https://skillicons.dev/icons?i=java,ts,postgresql,swift,docker,spring" />
   </a>
 </p>
 
