@@ -39,9 +39,22 @@ Here are some ideas to get you started:
    　　
 
 ## My GitHub stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abggkimi&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abggkimi&layout=compact" />
+</a> -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=abggkimi&count_private=true" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abggkimi&layout=compact" />
+</a> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abggkimi&theme=swift&animation=sequence&name=Miki+Abe)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abggkimi&theme=swift&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abggkimi&theme=swift&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abggkimi&theme=swift&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abggkimi&theme=swift&animation=sequence&timeZone=Asia%2FTOkyo)
