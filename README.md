@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Miki.  Welcome to my GitHub profile!
-　
+<!-- # Hi there, I'm Miki.  Welcome to my GitHub profile! -->
+<p align="center" >  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8AC2DD&section=header&reversal=true&text=Hi+there%2C+I%27m+Miki.&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&desc=Welcome+to+my+GitHub+profile%21&descSize=20&descAlign=50&descAlignY=66" />
+</p>
+
 ## About Me
 私は17歳の高校2年生です。現在専門的なスクールに通い、バックエンドを主に勉強しています。
 
